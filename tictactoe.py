@@ -1,5 +1,5 @@
-from tkinter import *  #importing all 
-import random
+from tkinter import *  #importing all functions, classes, and constants from tkinter
+import random  #provides functions to generate random numbers and performs random operations
 
 #this function handles the logic when a player clicks on a button. 
 def next_turn(row, column):  #the paramenters represent the coordinates of the grid cell that was clicked
